@@ -1,0 +1,39 @@
+.tarjeta{
+    height: 50vh;
+    width: 80vh;
+    background-color: blue;   
+    display: flex;
+    flex-direction: column;
+}
+
+.ubi-busq{
+    
+    width: 50vh;
+    display: flex;
+    flex-direction: row;
+    background-color: azure;
+    gap: 30px;
+    
+          
+}
+
+.clima{
+    
+    width: 50vh;
+    background-color: azure;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;       
+}
+
+.clima2{
+    
+    width: 50vh;
+    background-color: azure;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 60px;
+    
+        
+}
